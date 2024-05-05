@@ -27,22 +27,44 @@ main{
   }
 
   .bg-purple-700{
-    background-color: rgb(126 34 206);
+    background-color: rgb(239, 235, 243);
   }
 
   .text-white{
-    
+    color: azure;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  a.visited{
+    color: azure;
   }
 
   h1{
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold;
+    font-size: 40px;
+  }
+
+  h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold;
+    font-size: 30px;
   }
 
   p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font: tahoma;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    /*
+I know I can add p.font-tahoma.color-red-200 etc
+but downloading the file with it all won't work as it says npm isn't real?
+    */
   }
 
-  button{
-    
-  }
+  
