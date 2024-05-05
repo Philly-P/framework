@@ -2,6 +2,7 @@
 layout: "base.html"
 title: Intro
 ---
+<link rel = "stylesheet" href="style.css">
 # About Ark Survival evolved!
 
 <p>Ark is a game that allows us to play with dinosaurs and Have fun surviving in a futureristic enviorment. A world where you can tame dinosaurs 
