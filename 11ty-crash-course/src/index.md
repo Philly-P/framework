@@ -1,15 +1,16 @@
 ---
 layout: "base.html"
-title: Hello
+title: Intro
 ---
-# Just Markdown?
+# About Ark Survival evolved!
 
-Wanted to see if there is markdown here.
+<p>Ark is a game that allows us to play with dinosaurs and Have fun surviving in a futureristic enviorment. A world where you can tame dinosaurs 
+fight some bosses and even more. I've split the 3 things important to the game below on different pages. So have fun exploring and reamaber to get out there and survive.
+</p>
 
-## A second heading
+## Links to pages!
 
-And to see what paragraph spacing looks like in this model.
+<button class = "boss"> Bosses </button>
+<button class = "tame"> Tames </button>
+<button class = "item"> Items/crafting </button>
 
-<p class="bg-emerald-500">Also to see if tailwind works like this.</p>
-
-<p x-data="{ message: 'Also, Hello from Alpine 😆' }" x-text="message"></p>
