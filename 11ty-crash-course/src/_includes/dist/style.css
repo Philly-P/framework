@@ -33,3 +33,16 @@ main{
   .text-white{
     
   }
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: tahoma;
+  }
+
+  button{
+    
+  }
